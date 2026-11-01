@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATC Automata Visualizer
 
 An interactive web app for **Automata Theory & Computability** students. Enter a regular expression (or a supported language description), pick **DFA, NFA or ε-NFA**, and get a draggable state diagram, a transition table, an explanation, and a step-by-step string simulator.
@@ -85,3 +86,6 @@ src/
 - simulator checks (ε-closure, invalid symbols, empty string),
 - validation / error messages and rejection of unsupported or ambiguous descriptions,
 - UI smoke tests that render the app, generate automata, run a simulation and exercise the confirmation and error flows.
+=======
+# automata_things
+>>>>>>> 4a4014e94b7b315cb9b2c406a37a9ff18006e80b
